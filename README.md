@@ -1,1 +1,46 @@
-# INTRO-OF-ME
+ Hey Everyone! I'm [KARTHIK AKASH KUMAR](https://github.com/KARTHIK-M24) <img src="C:\Users\pc\Downloads\Hi.gif" width="35px">
+<br><br>
+
+<a href="https://www.linkedin.com/in/karthik2902">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/KARTHIK-M24">
+  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/_akash_kumar_m24/">
+  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br><br>
+
+
+ <p align="center"><h4 align="center"><samp> <b> An Cyber Security Learner, An Ethical Hacking Learner</b> </samp></h4></p>
+
+<div>
+<img align="right" src="C:\Users\pc\Downloads\terminal.gif" width="50%"/>
+  <br>
+  
+- 🔭 I’m currently Learning Ethical Hacking<br>
+- 🌱 I’m currently learning Cyber Security<br>
+- 💬 Ask me about Computer Vision<br>
+- 📫 How to reach me: nsd.karthik9@gmail.com<br>
+</div>
+
+
+<div>
+<h3><b><samp>Skills and Languages</samp></b></h3>
+
+
+<span>
+<img src="C:\Users\pc\Downloads\html.svg" alt="drawing" width="50"/>
+<img src="C:\Users\pc\Downloads\css.svg" alt="drawing" width="50"/>
+<img src="C:\Users\pc\Downloads\mysql-6.svg"" alt="drawing" width="50"/>
+<img src="C:\Users\pc\Downloads\git.svg" alt="drawing" width="50"/>
+<img src="C:\Users\pc\Downloads\github-icon.svg" alt="drawing" width="50"/>
+<img src="C:\Users\pc\Downloads\vscode.svg" alt="drawing" width="50"/>
+<img src="C:\Users\pc\Downloads\power-bi-icon.svg" alt="drawing" width="50"/>
+<img src="C:\Users\pc\Downloads\office.png" alt="drawing" width="50"/>
+
+
+
+  </span></br>
